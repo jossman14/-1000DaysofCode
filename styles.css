@@ -67,3 +67,39 @@
 .fork4 {
   left: -40px;
 }
+
+.eye1,
+.eye2 {
+  width: 90px;
+  height: 90px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  top: -63px;
+  left: -103px;
+  box-shadow: 1px 1px 3px #888787;
+}
+
+.pupil1,
+.pupil2 {
+  width: 60px;
+  height: 60px;
+  background: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 21px;
+  left: 3px;
+  box-shadow: 1px 1px 3px #888787;
+}
+
+.eye2 {
+  left: 27px;
+  width: 60px;
+  height: 60px;
+  top: -34px;
+}
+.pupil2 {
+  left: 100px;
+  width: 60px;
+  height: 60px;
+}
