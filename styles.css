@@ -36,7 +36,8 @@
   left: -147px;
 }
 
-.fork1 {
+.fork1,
+.fork4 {
   width: 185px;
   height: 170px;
   background: #f0f0f0;
@@ -45,4 +46,24 @@
   top: -118px;
   left: -147px;
   transform: rotate(-42deg);
+}
+
+.fork2,
+.fork3 {
+  width: 76px;
+  height: 73px;
+  background: #f0f0f0;
+  border-radius: 100% 0% 100% 0% / 100% 0% 100% 0%;
+  position: absolute;
+  top: -151px;
+  left: -48px;
+  transform: rotate(-43deg);
+}
+
+.fork3 {
+  left: -14px;
+}
+
+.fork4 {
+  left: -40px;
 }
