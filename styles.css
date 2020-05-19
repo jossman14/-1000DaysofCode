@@ -24,4 +24,25 @@
   position: absolute;
   top: -135px;
   left: -147px;
+  transform: rotate(-42deg);
+}
+
+.face-mask {
+  width: 300px;
+  height: 60px;
+  background: #3498db;
+  position: absolute;
+  top: -162px;
+  left: -147px;
+}
+
+.fork1 {
+  width: 185px;
+  height: 170px;
+  background: #f0f0f0;
+  border-radius: 100% 0% 97% 3% / 91% 0% 99% 3%;
+  position: absolute;
+  top: -118px;
+  left: -147px;
+  transform: rotate(-42deg);
 }
