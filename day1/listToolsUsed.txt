@@ -1,6 +1,13 @@
 css clip --> https://bennettfeely.com/clippy/
+
 border-radius-generator --> https://9elements.github.io/fancy-border-radius/#70.22.61.46--.
+
 border-radius-genertaor-8-node --> https://9elements.github.io/fancy-border-radius/full-control.html
+
 flatColor --> https://flatuicolors.com/palette/defo
+
 colorPalletteGenerator --> https://www.sessions.edu/color-calculator/
+
 Pokemon Image --> https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgix7qvt-Tvl7TUyqxHvdDn_Fqf8u1rySYi1BamHWtKr9JZSbZ&usqp=CAU
+
+youtube tutorial ---> https://www.youtube.com/watch?v=dq2hlbacOaM
